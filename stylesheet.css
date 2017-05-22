@@ -15,5 +15,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#91889e', end
 
 @font-face {
     font-family: PrettyFont;
-    src: url(Painting in the Sunlight.ttf);
+    src: url("PaintingintheSunlight.ttf");
 }
