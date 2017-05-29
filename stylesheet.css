@@ -2,9 +2,7 @@
     font-family: PrettyFont;
     src: url("PaintingintheSunlight.ttf");
 }
-images {
-    white-space: nowrap;
-}
+
 li{
   color: #5C5858;
   font-family: "PrettyFont";
