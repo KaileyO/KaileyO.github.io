@@ -2,7 +2,9 @@
     font-family: DaFont;
     src: url("JOURNAL.TTF");
 }
-
+h3{
+  font-family: "DaFont";
+}
 li{
   color: #000000;
   font-family: "DaFont";
