@@ -2,6 +2,10 @@
     font-family: DaFont;
     src: url("JOURNAL.TTF");
 }
+h1{
+  font-family: "DaFont";
+  font-size: 50;
+}
 
 h3{
   font-family: "DaFont";
