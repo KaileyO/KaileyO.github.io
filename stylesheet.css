@@ -1,11 +1,11 @@
 @font-face {
-    font-family: PrettyFont;
-    src: url("Please write me a song.ttf");
+    font-family: DaFont;
+    src: url("JOURNAL.TTF");
 }
 
 li{
   color: #000000;
-  font-family: "PrettyFont";
+  font-family: "DaFont";
 }
 
 body{
